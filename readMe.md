@@ -3,10 +3,10 @@
 ## Overview:
 	This project creates a java application where user can submit the stream of input and desire output for which we will try to obtain a valid arithmetic expression.
 	
-## Problem Statement
-	Create an application to process the given unique stream of input and a result given by user and return the valid arithmetic expresstion.
+![alt text](https://github.com/beyourwild7/Expression-Finder/Images/output.png?raw=true)
+
 	
-## Solution:
+## Project Detail:
 	Environment:
 		IDE : NetBeans 8.2 configured with JDK 8 
 		
@@ -47,7 +47,6 @@
         Testing Class Name: OperatorFinderTest
         
     Command for test: Alt+F6
-
 
 		
 ## For any queries
