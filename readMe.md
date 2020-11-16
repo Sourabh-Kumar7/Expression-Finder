@@ -48,20 +48,8 @@
         
     Command for test: Alt+F6
 
-        
-        		
-	
-## Cost of the project
-	Dev:
-		1] Local Machine
-		2] NetBeans IDE (Free and Open-Source)
-		
+
 		
 ## For any queries
     sourabh7.tech@gmail.com
 		
-
-	
-	
-	
-
