@@ -3,7 +3,7 @@
 ## Overview:
 	This project creates a java application where user can submit the stream of input and desire output for which we will try to obtain a valid arithmetic expression.
 	
-![alt text](https://github.com/beyourwild7/Expression-Finder/Images/output.png?raw=true)
+!(https://github.com/beyourwild7/Expression-Finder/Images/output.png?raw=true)
 
 	
 ## Project Detail:
