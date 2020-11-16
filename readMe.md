@@ -3,7 +3,7 @@
 ## Overview:
 	This project creates a java application where user can submit the stream of input and desire output for which we will try to obtain a valid arithmetic expression.
 	
-## Problem Statemen
+## Problem Statement
 	Create an application to process the given unique stream of input and a result given by user and return the valid arithmetic expresstion.
 	
 ## Solution:
@@ -21,7 +21,7 @@
 				1] For unique input stream
 				2] For desired result
 				
-			Buttons:<br/>
+			Buttons:
 				1]Find Expression:
 					This will show a valid arithmetic expression if exists otherwise give "NOT FOUND".
 				2]Clear:
